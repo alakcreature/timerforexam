@@ -1,0 +1,13 @@
+body{
+    background-image: url("study.jpg");
+    background-size: cover;
+  }
+  
+.container {
+  width: 50%;
+  height: 50%;
+  color:#EFD0CA;
+  font-size:20px;
+  text-align:center;
+  margin:10%;
+}
